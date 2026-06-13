@@ -1,0 +1,4 @@
+.vscode
+output-*
+angle_src/*
+!angle_src/.gitkeep
